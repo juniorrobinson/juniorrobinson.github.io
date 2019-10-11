@@ -1,11 +1,10 @@
 .flex-container {
   display: flex;
     background-color: Azure;
-    align-content: cenetr;
+    align-items: center;
     justify-content: center;
     padding-bottom: 20px;
 
-}
 
 body {
   background-image: url("background.jpg");
